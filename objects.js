@@ -1,2 +1,4 @@
-var playlist = "grace's top hits"
-playlistartist = "".
+var playlist = {artist: "song titles"}
+function updatePlaylist(obj,key,value) {
+  
+}
