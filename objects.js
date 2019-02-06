@@ -1,1 +1,2 @@
-var playlist = {Britney Spears: "Hit me baby one more time"}
+var playlist = {}
+var playlist = {BritneySpears: "Hit Me Baby"}
